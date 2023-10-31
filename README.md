@@ -63,8 +63,8 @@ as the old saying goes, health is wealth.
 ### Recommendations
 
 Based on the analysis, i advice the following action:
-- smokers should spend health insurance more seriously as they are pron to health issues.
-- couples with children should prioritise the health of their children.
+- smokers should take their health insurance more seriously as they are pron to health issues.
+- couples with children should prioritise the health of their children by spending more on health insurance.
 
 ### Limitation
 i had to remove all zero values of the charges column because they would have affected the accuracy of my conclusion from the analysis.
