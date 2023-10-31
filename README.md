@@ -58,9 +58,6 @@ as the old saying goes, health is wealth.
 5. People who weight between 25.96-35.96 are more actively involved in health insurance.
 6. Couples with no children show the most interest in insuring their health.
 
-### Dashboard
-
-https://github.com/DarlingtonAlban/U.S-Health-Insurance-Analysis/commit/1c0b815c64810cd65783fa81eb05e2b6cb8c280a#diff-7472fd1d66eae7ef28075351ebd0bdedcc7d35b3c0934f5aafa3a168f30dc74a
 
 ### Recommendations
 
@@ -71,4 +68,6 @@ Based on the analysis, i advice the following action:
 ### Limitation
 i had to remove all zero values of the charges column because they would have affected the accuracy of my conclusion from the analysis.
 
+### Interactive Dashboard
+![Insurance Dashboard](https://github.com/DarlingtonAlban/U.S-Health-Insurance-Analysis/assets/141925298/a198d4e9-10a3-4129-836f-a2a3049ccd62)
 
