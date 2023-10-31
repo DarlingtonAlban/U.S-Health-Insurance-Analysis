@@ -10,6 +10,7 @@
 - [Findings](#findings)
 - [Recommendations](#recommendations)
 - [Limitation](#limitation)
+- [Interactive Dashboard](#interactive-dashboard)
 
 ### Project Overview
 
