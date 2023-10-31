@@ -1,4 +1,4 @@
-# U.S-Health-Insurance-Analysis
+# Health Insurance Analysis
 # Health Analysis
 
 # Data Source
